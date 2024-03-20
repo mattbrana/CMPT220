@@ -26,10 +26,12 @@ public class Main {
 
     System.out.println("im going to print out the word Dog now.");
     printDog();
+
+    System.out.prinln("hello");
       
     }
 
-  
+
     public static int add(int zyx, int tuv){
         return(zyx + tuv);
     }
